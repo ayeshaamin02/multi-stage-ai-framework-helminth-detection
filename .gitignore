@@ -47,3 +47,6 @@ scripts/*
 # Graphify knowledge graph (local-only artifact; re-generated via `graphify update .`)
 graphify-out/
 **/graphify-out/
+# macOS metadata
+.DS_Store
+._*
