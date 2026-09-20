@@ -1,0 +1,10 @@
+[
+    {
+        "filename": "multiclass_helminths_yolo11_l_round_2_best.pt",
+        "url": "https://huggingface.co/ABCAgency/multiclassHelminths/resolve/main/YOLO11L/multiclass_helminths_yolo11_l_round_2/weights/best.pt"
+    },
+    {
+        "filename": "multiclass_helminths_rtdetr_l_round_5_best.pt",
+        "url": "https://huggingface.co/ABCAgency/multiclassHelminths/resolve/main/RTDETR_L/multiclass_helminths_rtdetr_l_round_5/weights/best.pt"
+    }
+]

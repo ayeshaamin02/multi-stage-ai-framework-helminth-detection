@@ -1,0 +1,2 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+RT-DETR-L,YOLO11-L,-0.032,0.7722,-0.2784,0.2144,False

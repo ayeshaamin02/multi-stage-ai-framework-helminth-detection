@@ -1,0 +1,10 @@
+Metric,F-statistic,p-value,Significant at 0.05,Number of architectures,Architectures
+precision,6.523312456506499,0.00021587297258769507,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+recall,30.88337853545016,4.168955207291713e-11,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+f1 score,46.60219675262269,2.6929356087531625e-13,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+Balance Accuracy,38.86284836515242,2.574861227602372e-12,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+Specificity,6.476394339398375,0.00022773095418390484,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+MCC,43.761913239571825,5.915794427918472e-13,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+Cohen's Kappa,43.761913239571825,5.915794427918472e-13,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+Test Loss,47.38767994055657,2.1827052674216305e-13,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"
+Test Accuracy,40.89051418439534,1.3747289525357296e-12,True,7,"ConvNeXtBase, DenseNet169, EfficientNetB0, MobileNetV2, NASNetMobile, ResNet50, VGG19"

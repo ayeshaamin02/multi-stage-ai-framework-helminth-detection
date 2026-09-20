@@ -1,0 +1,15 @@
+tensorflow==2.18.0
+numpy
+h5py>=3.10.0
+pillow
+scikit-image
+scikit-learn
+joblib
+fastapi
+python-multipart
+uvicorn[standard]
+requests
+huggingface-hub
+ultralytics
+opencv-python-headless
+

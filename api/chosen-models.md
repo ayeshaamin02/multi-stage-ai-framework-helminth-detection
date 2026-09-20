@@ -1,0 +1,24 @@
+# STAGE 1
+
+BINARY_ConvNeXtBase_Round1.keras
+BINARY_DenseNet169_Round4.keras
+BINARY_EfficientNetB0_Round4.keras
+BINARY_MobileNetV2_Round4.keras
+BINARY_NASNetMobile_Round1.keras
+BINARY_ResNet50_Round2.keras
+BINARY_VGG19_Round2.keras
+
+# STAGE 2
+
+HELMINTHS_BINARY_ConvNeXtBase_Round1.keras
+HELMINTHS_BINARY_DenseNet169_Round2.keras
+HELMINTHS_BINARY_EfficientNetB0_Round3.keras
+HELMINTHS_BINARY_MobileNetV2_Round5.keras
+HELMINTHS_BINARY_NASNetMobile_Round3.keras
+HELMINTHS_BINARY_ResNet50_Round2.keras
+HELMINTHS_BINARY_VGG19_Round4.keras
+
+# STAGE 3
+
+multiclass_helminths_yolo11_l_round_2_best.pt
+multiclass_helminths_rtdetr_l_round_5_best.pt

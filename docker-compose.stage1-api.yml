@@ -1,0 +1,14 @@
+services:
+    stage-1-api:
+        build:
+            context: api/stage1/
+            dockerfile: Dockerfile
+        container_name: fecal-detection-stage1-api
+        command: uvicorn app:app --host 0.0.0.0 --port 7137
+        ports:
+            - "7137:7137"
+        environment:
+            MODELS_DIR: /app/models
+            MAX_CONCURRENT_INFERENCE: "3"
+            MAX_CACHED_MODELS: "4"
+        restart: unless-stopped

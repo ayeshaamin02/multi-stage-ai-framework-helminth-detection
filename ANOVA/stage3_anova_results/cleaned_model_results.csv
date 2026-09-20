@@ -1,0 +1,11 @@
+Model Architechture,mAP@50,mAP@50_95,mAP@95,Precision,Recall,F1,Architecture,Round
+multiclass_helminths_yolo11_l_round_1,99.34,93.34,55.84,98.21,99.47,98.84,YOLO11-L,1
+multiclass_helminths_yolo11_l_round_2,99.41,94.03,59.24,98.73,99.55,99.14,YOLO11-L,2
+multiclass_helminths_yolo11_l_round_3,99.42,93.87,58.47,98.88,99.55,99.21,YOLO11-L,3
+multiclass_helminths_yolo11_l_round_4,99.25,93.61,58.66,98.73,99.47,99.1,YOLO11-L,4
+multiclass_helminths_yolo11_l_round_5,99.51,93.9,58.95,98.73,99.62,99.17,YOLO11-L,5
+multiclass_helminths_rtdetr_l_round_1,99.16,92.92,54.94,96.2,99.32,97.74,RT-DETR-L,1
+multiclass_helminths_rtdetr_l_round_2,99.21,92.79,52.87,95.72,99.47,97.56,RT-DETR-L,2
+multiclass_helminths_rtdetr_l_round_3,99.64,93.16,54.1,96.15,99.85,97.97,RT-DETR-L,3
+multiclass_helminths_rtdetr_l_round_4,99.57,92.82,53.65,95.87,99.77,97.78,RT-DETR-L,4
+multiclass_helminths_rtdetr_l_round_5,99.51,93.3,55.94,97.21,99.7,98.44,RT-DETR-L,5

@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "BINARY_ConvNeXtBase_Round1.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/ConvNeXtBase/BINARY_ConvNeXtBase_Round1/BINARY_ConvNeXtBase_Round1.keras"
+    },
+    {
+        "filename": "BINARY_DenseNet169_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/DenseNet169/BINARY_DenseNet169_Round4/BINARY_DenseNet169_Round4.keras"
+    },
+    {
+        "filename": "BINARY_EfficientNetB0_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/EfficientNetB0/BINARY_EfficientNetB0_Round4/BINARY_EfficientNetB0_Round4.keras"
+    },
+    {
+        "filename": "BINARY_MobileNetV2_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/MobileNetV2/BINARY_MobileNetV2_Round4/BINARY_MobileNetV2_Round4.keras"
+    },
+    {
+        "filename": "BINARY_NASNetMobile_Round1.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/NASNetMobile/BINARY_NASNetMobile_Round1/BINARY_NASNetMobile_Round1.keras"
+    },
+    {
+        "filename": "BINARY_ResNet50_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/ResNet50/BINARY_ResNet50_Round2/BINARY_ResNet50_Round2.keras"
+    },
+    {
+        "filename": "BINARY_VGG19_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/VGG19/BINARY_VGG19_Round2/BINARY_VGG19_Round2.keras"
+    }
+]

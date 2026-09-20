@@ -1,0 +1,58 @@
+[
+    {
+        "filename": "BINARY_ConvNeXtBase_Round1.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/ConvNeXtBase/BINARY_ConvNeXtBase_Round1/BINARY_ConvNeXtBase_Round1.keras"
+    },
+    {
+        "filename": "BINARY_DenseNet169_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/DenseNet169/BINARY_DenseNet169_Round4/BINARY_DenseNet169_Round4.keras"
+    },
+    {
+        "filename": "BINARY_EfficientNetB0_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/EfficientNetB0/BINARY_EfficientNetB0_Round4/BINARY_EfficientNetB0_Round4.keras"
+    },
+    {
+        "filename": "BINARY_MobileNetV2_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/MobileNetV2/BINARY_MobileNetV2_Round4/BINARY_MobileNetV2_Round4.keras"
+    },
+    {
+        "filename": "BINARY_NASNetMobile_Round1.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/NASNetMobile/BINARY_NASNetMobile_Round1/BINARY_NASNetMobile_Round1.keras"
+    },
+    {
+        "filename": "BINARY_ResNet50_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/ResNet50/BINARY_ResNet50_Round2/BINARY_ResNet50_Round2.keras"
+    },
+    {
+        "filename": "BINARY_VGG19_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryFecal/resolve/main/VGG19/BINARY_VGG19_Round2/BINARY_VGG19_Round2.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_ConvNeXtBase_Round1.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/ConvNeXtBase/HELMINTHS_BINARY_ConvNeXtBase_Round1/HELMINTHS_BINARY_ConvNeXtBase_Round1.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_DenseNet169_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/DenseNet169/HELMINTHS_BINARY_DenseNet169_Round2/HELMINTHS_BINARY_DenseNet169_Round2.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_EfficientNetB0_Round3.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/EfficientNetB0/HELMINTHS_BINARY_EfficientNetB0_Round3/HELMINTHS_BINARY_EfficientNetB0_Round3.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_MobileNetV2_Round5.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/MobileNetV2/HELMINTHS_BINARY_MobileNetV2_Round5/HELMINTHS_BINARY_MobileNetV2_Round5.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_NASNetMobile_Round3.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/NASNetMobile/HELMINTHS_BINARY_NASNetMobile_Round3/HELMINTHS_BINARY_NASNetMobile_Round3.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_ResNet50_Round2.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/ResNet50/HELMINTHS_BINARY_ResNet50_Round2/HELMINTHS_BINARY_ResNet50_Round2.keras"
+    },
+    {
+        "filename": "HELMINTHS_BINARY_VGG19_Round4.keras",
+        "url": "https://huggingface.co/ABCAgency/binaryHelminths/resolve/main/VGG19/HELMINTHS_BINARY_VGG19_Round4/HELMINTHS_BINARY_VGG19_Round4.keras"
+    }
+]

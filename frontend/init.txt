@@ -1,0 +1,2 @@
+ignore this file. it let's /frontend folder appear on github.
+delete file once you initiate frontend
